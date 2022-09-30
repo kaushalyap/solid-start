@@ -21,9 +21,9 @@ This is the home of the Solid app framework. This is still a **work in progress*
 ```bash
 mkdir my-app
 cd my-app
-npm init solid
-npm install
-npm run dev
+npm init solid    # pnpm create solid  # yarn create solid
+npm install       # pnpm install       # yarn install
+npm run dev       # pnpm run dev       # yarn run dev
 ```
 
 ### Development
